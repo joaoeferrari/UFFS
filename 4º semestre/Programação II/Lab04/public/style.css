@@ -1,0 +1,41 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Inter&family=Lora&family=Noto+Sans:wght@400;700&family=Nunito:ital,wght@1,700&family=Open+Sans:wght@300;400;700&family=Yellowtail&display=swap');
+
+html{
+    height: 100vh;
+}
+
+body{
+    background-color: #fff;
+    font-family: 'Lora', sans-serif;
+    font-size: 10px;
+}
+
+h1, p , header {
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img{
+    width: 300px;
+    height: 140px;
+}
+
+.imagem{
+    text-align: center;
+}
+
+a{
+    color: #000;
+}
+
+.col p{
+    width: 80px;
+}
+
